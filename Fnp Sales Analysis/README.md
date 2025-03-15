@@ -1,5 +1,7 @@
 # FnP Sales Analysis Dashboard
 
+![Fnp Dashboard](images/fnp_dashboard.png)
+
 ##  Project Overview
 The Sales Analysis Dashboard provides an insightful overview of sales performance, customer behavior, and revenue distribution across various dimensions. The dashboard enables data-driven decision-making by offering key metrics such as total revenue, order volume, customer spending, and delivery duration. The interactive visualizations allow stakeholders to filter and analyze sales trends based on occasion, product category, time, and location.
 
