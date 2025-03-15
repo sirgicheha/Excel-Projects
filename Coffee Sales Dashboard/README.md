@@ -1,6 +1,6 @@
 # Coffee Sales Dashboard
 
-![Coffee Sales Dashboard](CoffeeDashboard.png)
+![Coffee Sales Dashboard](images/Coffee_Dashboard.png)
 
 ## Executive Summary
 
