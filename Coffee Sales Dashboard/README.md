@@ -1,5 +1,7 @@
 # Coffee Sales Dashboard
 
+![Coffee Sales Dashboard](CoffeeDashboard.png)
+
 ## Executive Summary
 
 The Coffee Sales Dashboard is an interactive and data-driven visualization tool designed to track and analyze coffee sales over time. It provides insights into key performance metrics, customer behavior, and regional sales trends, enabling stakeholders to make informed business decisions. The dashboard consolidates sales data from **January 2021 to April 2022** and presents it in an easy-to-understand format using various interactive filters and graphical representations.
