@@ -18,10 +18,10 @@ This repository is a collection of my data analysis and visualization projects, 
 ## Projects
 Here’s a list of my data analysis and visualization projects:
 
-[1. **FnP Sales Analyis Dashboard**](/Excel-Projects/Fnp_Sales_Analysis)  
+[1. **FnP Sales Analyis Dashboard**](/Excel-Projects/Fnp_Sales_Analysis/README.md)  
    An interactive dashboard analyzing sales trends, regional performance, and product profitability. Features pivot tables, dynamic charts, and slicers for filtering data.
 
-[2. **Coffee Sales Dashboard**](/Excel-Projects/Coffee_Sales_Dashboard)  
+[2. **Coffee Sales Dashboard**](/Excel-Projects/Coffee_Sales_Dashboard/README.md)  
    An interactive data visualization tool designed to track and analyze coffee sales trends. It provides key insights into customer behavior, product performance, and regional sales distributions
 
 Each project includes:
