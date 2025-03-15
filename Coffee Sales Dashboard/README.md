@@ -1,4 +1,4 @@
-# Coffee Sales Dashboard - README
+# Coffee Sales Dashboard
 
 ## Executive Summary
 
