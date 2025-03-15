@@ -43,7 +43,7 @@ Each project includes:
 4. Interact with the dashboards and visualizations to explore the insights.
 
 ## Contact
-If you’d like to connect, collaborate, or discuss my work, feel free to reach out to me on my [email](samuelgicheha03@gmail.com) or connect with me on [LinkedIn](http://www.linkedin.com/in/sirgicheha)
+If you’d like to connect, collaborate, or discuss my work, feel free to reach out to me on [LinkedIn](http://www.linkedin.com/in/sirgicheha)
 
 ---
 
